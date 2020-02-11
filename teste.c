@@ -1,0 +1,1 @@
+//melhor que o TFA de todos em C.
